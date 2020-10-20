@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="j2002_10_20_queryMeaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>j2002_10_20_queryMeaven</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="10_19_queryMaven-1.0.war">
+      <element id="artifact" artifact-name="j2002_10_20_queryMeaven:war exploded" />
+    </root>
+  </artifact>
+</component>
